@@ -3,7 +3,7 @@
 //
 #include <iostream>
 
-main(){
+int main(){
 
     std::cout <<"Bom dia mundo!";
 
